@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+.fw-light {
+    font-weight: 300 !important;
+  }
+h1{
+    width: 434px;
+}
+
+
+.about-head{
+    margin: 50px 380px;
+    align-items: center;
+    font-family: "Oswald", sans-serif;
+    font-size: large;
+}
+
+.about-text{
+    margin: 50px 370px;
+    align-items: center;
+    font-family: "Oswald", sans-serif;
+    font-size: medium;
+}
+.titletext{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+}
+.titletext .title{
+    text-align: center;
+    font-size: 2vw;
+    font-weight: bolder;
+}
+.titletext .title-des{
+    text-align: center;
+    font-size: 1vw;
+}
+
+.col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 3px;
+}
+.col .card{
+    align-items: center;
+    justify-content: center;
+}
+.col .card img{
+    image-resolution: 100px;
+    height: 20vh;
+    width: 20vw;
+    
+}
+.col .card .card-body{
+    text-align: center;
+}

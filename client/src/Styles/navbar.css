@@ -1,0 +1,35 @@
+.navbar {
+    background-color: blue;
+    display:flex;
+    justify-content: center;
+    padding: 10px;
+    border: none;
+    width: 100vw;
+    background-attachment: fixed;
+    text-decoration: none;
+}
+.navbar .nav .nav-item{
+    border: none;
+    width: 8vw;
+    height: 19vh;
+}
+button{
+    border: none;
+    background-color: blue;
+    color:white;
+}
+
+.navbar .nav .nav-item .image {
+    image-resolution: 10px;
+    width: 97px;
+    height: 61px;
+}
+.navbar .nav .nav-item .text{
+    width: 150px;
+    height: 76px;
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 36px;
+    font-weight: bolder;
+}

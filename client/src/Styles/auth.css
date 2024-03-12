@@ -1,0 +1,27 @@
+.auth-container{
+    background-color: blue;
+    max-width:25vw;
+    margin:20px;
+    padding:20px;
+    border:1px solid blue;
+    border-radius:5px;   
+}
+.Login{
+    border: 2px solid black;
+    border-radius: 13px;
+    width: 8vw;
+    background-color: white;
+    color:black;
+    margin-left: 6vw;
+}
+.auth-container .form-group input{
+    width: 20vw;
+}
+.register p{
+    font-weight: bolder;
+    font-size: 15px;
+}
+.register p .account{
+    color: white;
+    font-size: 15px;
+}
